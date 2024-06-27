@@ -1,0 +1,9 @@
+// for - expressões/parâmetro
+
+// - incializador (variável)
+// - condicao (permite o loop)
+// - expressão final (ocorre no final de cada iteração)
+
+for (let i = 0; i < 10; i++) {
+    //codigo
+}

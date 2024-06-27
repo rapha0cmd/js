@@ -1,0 +1,8 @@
+// do..while - 1 expressão
+
+//condicao -> (permite o loop)
+
+let x = 0
+do {
+    i++
+} while (x < 10);
